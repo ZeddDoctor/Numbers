@@ -3,7 +3,7 @@
 
 *Prerequisites: Java*
 
-### [ How do I perform this magic? ] 
+##  How do I perform this magic?  🪄
 Copy->Paste in your favourite terminal.
 ```
 git clone https://github.com/ZeddDoctor/Numbers.git\
@@ -16,5 +16,5 @@ git clone https://github.com/ZeddDoctor/Numbers.git\
 git clone https://github.com/ZeddDoctor/Numbers.git\;cd Numbers/src\;javac Main.java\;java Main
 ```
 
-###  Features
+##  Features  :heavy_check_mark:
 Currently supports the following cool number properties:
