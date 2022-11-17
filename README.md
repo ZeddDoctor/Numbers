@@ -1,5 +1,5 @@
 # Numbers
-#### Check if the number in your mind matches a cool property:)
+### Check if the number in your mind matches a cool property:)
 
 *Prerequisites: Java*
 
