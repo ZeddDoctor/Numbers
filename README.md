@@ -36,7 +36,7 @@ Currently supports the following cool number properties:
 - **[Carol](https://oeis.org/A093112)** : A Carol number is an integer of the form 4n – 2(n+1) – 1. ( -> 7, 47, 223, .. )
 - **[Pronic](https://mathworld.wolfram.com/PronicNumber.html)** : A pronic number is a number that is the product of two consecutive integers. ( -> 2, 6, 12, .. )
 
-In addition to the above, you can also:
+###   In addition to the above, you can also:
 
 - **[Prime factors](https://mathworld.wolfram.com/PrimeFactor.html)**: Return the factors and prime factors of a number.
 - **[Collatz Conjecture](https://mathworld.wolfram.com/CollatzProblem.html)**: List the number of steps required for a number to reach 1 in Collatz Conjecture.
