@@ -264,6 +264,7 @@ public class Numbers implements NumberProperties {
         We will use this property to check whether given number is Carol number or not.
         First few: -1, 7, 47, 223, 959
          */
+        if(n==1) return false;
         if(n == 7) return true;
 
         String binaryn = Integer.toBinaryString(n);
