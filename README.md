@@ -13,7 +13,7 @@ git clone https://github.com/ZeddDoctor/Numbers.git\
 ```
 ##### For Windows users
 ```
-git clone https://github.com/ZeddDoctor/Numbers.git\;cd Numbers/src\;javac Main.java\;java Main
+git clone https://github.com/ZeddDoctor/Numbers.git;cd .\Numbers\src\;javac Main.java;java Main
 ```
 ##  Features :heavy_check_mark:
 ### (Positive Integers only )
